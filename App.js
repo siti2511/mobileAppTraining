@@ -7,6 +7,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Jom belajar coding. Coding its fun!!!!</Text>
       <Text>Saya baru nak belajo ni. My 1st time apps!!</Text>
+      <Text>Perubahan baru!!</Text>
       <StatusBar style="auto" />
     </View>
   );
